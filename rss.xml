@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ozark Pappy]]></title>
         <description><![CDATA[Ozark Pappy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ozarkpappy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 15:42:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 15:44:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ozarkpappy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ozark Pappy is an indie-folk band based out of Phoenix, Arizona. </p>]]></description>
-            <link>undefinedozark-pappy-is-an-indie-folk-band-based-out-of-phoenix-ariz/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b935c8-198d-422d-a201-c77b7576d6d5.jpg">]]></description>
+            <link>https://thegrid.ai/ozarkpappy/ozark-pappy-is-an-indie-folk-band-based-out-of-phoenix-ariz/index.html</link>
             <guid isPermaLink="false">cc9e357a-f2d2-4ed8-811e-9114f9ec02b5</guid>
-            <pubDate>Thu, 21 Apr 2016 15:42:14 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 15:43:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
