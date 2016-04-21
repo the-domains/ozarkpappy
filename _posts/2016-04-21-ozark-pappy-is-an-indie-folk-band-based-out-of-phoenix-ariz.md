@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ozark Pappy is an indie-folk band based out of Phoenix, Arizona. '
-datePublished: '2016-04-21T15:43:30.827Z'
-dateModified: '2016-04-21T15:43:25.576Z'
+datePublished: '2016-04-21T15:50:33.897Z'
+dateModified: '2016-04-21T15:46:05.213Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-ozark-pappy-is-an-indie-folk-band-based-out-of-phoenix-ariz.md
